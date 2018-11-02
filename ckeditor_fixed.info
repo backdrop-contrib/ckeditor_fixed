@@ -1,0 +1,5 @@
+name = CKeditor fixed
+description = Fixed plugin for ckeditor
+package = User interface
+type = module
+backdrop = 1.x
